@@ -1,0 +1,35 @@
+{
+  "title": "The World Top Incomes Database",
+  "name": "world-top-incomes-database",
+  "keywords": [
+    "todo.isitopendata"
+  ],
+  "license": {
+    "title": "License not specified",
+    "type": "notspecified"
+  },
+  "resources": [
+    {
+      "description": "Extracted full dump of data as of 2012-01-07.",
+      "format": "CSV",
+      "hash": "md5:eb836e81db80ba365e46ac378ce7f355",
+      "name": "data-csv",
+      "title": "data.csv",
+      "url": "https://commondatastorage.googleapis.com/ckannet-storage/2012-01-07T150817/data.csv"
+    },
+    {
+      "description": "Notes in CSV form for the dataset as of 2012-01-07",
+      "format": "CSV",
+      "hash": "md5:3e041c308816a88b42d123b600b0a7fe",
+      "name": "notes-csv",
+      "title": "notes.csv",
+      "url": "https://commondatastorage.googleapis.com/ckannet-storage/2012-01-07T151010/notes.csv"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Facundo Alvaredo, Tony Atkinson, Thomas Piketty and Emmanuel Saez",
+      "web": "http://g-mond.parisschoolofeconomics.eu/topincomes/"
+    }
+  ]
+}
