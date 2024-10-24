@@ -1,3 +1,5 @@
+<a href="https://datahub.io/core/world-wealth-and-income-database"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+
 Database of income shares of top end of population for long time periods (e.g. 1875-present) for a variety of countries around the world.
 
 From [about page](http://g-mond.parisschoolofeconomics.eu/topincomes/):
